@@ -1,0 +1,6 @@
+## Interface: 60100
+## Title: BobUI-Setup
+## Author: 10leej
+## Notes: Set the BobUI interface settings
+
+core.lua
